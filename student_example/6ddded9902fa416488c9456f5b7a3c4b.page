@@ -1,0 +1,36 @@
+{
+    "tuples" : [
+        [
+            1,
+            "Katie Doroschak",
+            "Graduate",
+            "CSE"
+        ],
+        [
+            2,
+            "Jiechen Chen",
+            "Graduate",
+            "CSE"
+        ],
+        [
+            3,
+            "Naozumi Hiranuma",
+            "Graduate",
+            "CSE"
+        ],
+        [
+            4,
+            "Xin Ru Wang",
+            "Graduate",
+            "CSE"
+        ],
+        [
+            5,
+            "Antoine Bosselut",
+            "Graduate",
+            "CSE"
+        ]
+    ],
+    "id" : "6ddded9902fa416488c9456f5b7a3c4b",
+    "n" : 5
+}

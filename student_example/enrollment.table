@@ -1,0 +1,17 @@
+{
+    "page_ids" : [
+        "ce46a6899e504db1bd7ab3763e454d85"
+    ],
+    "column_names" : [
+        "studentid",
+        "classid"
+    ],
+    "name" : "enrollment",
+    "types" : [
+        "int",
+        "int"
+    ],
+    "pagestack_ids" : [
+        "ce46a6899e504db1bd7ab3763e454d85"
+    ]
+}

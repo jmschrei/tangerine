@@ -1,0 +1,14 @@
+{
+    "table_names" : [
+        "people",
+        "classes",
+        "enrollment"
+    ],
+    "name" : "simple",
+    "users" : [
+        {
+            "username" : "3dc944cbb3df4514027e3478455b15762e1ae877ba3bfeef79735ae46418b2e784c660b55319b07b1cbb00597f59415f50438bbadfbf1ff8518f4957fd7c5eaf",
+            "password" : "3bca9d2b071e31229da544e627854ff178b3fa06af1881f788f166e02f3209f5ee021ed1bb8092a028f3005f3262a43e1fee28684d02981064b635d35bdd4667"
+        }
+    ]
+}

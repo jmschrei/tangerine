@@ -1,0 +1,17 @@
+{
+    "page_ids" : [
+        "562c6bef9cbe4d28ada3343c9117d5f1"
+    ],
+    "column_names" : [
+        "id",
+        "name"
+    ],
+    "name" : "classes",
+    "types" : [
+        "int",
+        "str"
+    ],
+    "pagestack_ids" : [
+        "562c6bef9cbe4d28ada3343c9117d5f1"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "tuples" : [
+        [
+            544,
+            "Database Systems"
+        ],
+        [
+            515,
+            "Probabilistic Graphical Models"
+        ],
+        [
+            525,
+            "Randomized Algorithms"
+        ],
+        [
+            517,
+            "Natural Language Processing"
+        ]
+    ],
+    "id" : "562c6bef9cbe4d28ada3343c9117d5f1",
+    "n" : 4
+}

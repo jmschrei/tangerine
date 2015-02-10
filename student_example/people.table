@@ -1,0 +1,21 @@
+{
+    "page_ids" : [
+        "6ddded9902fa416488c9456f5b7a3c4b"
+    ],
+    "column_names" : [
+        "id",
+        "name",
+        "enrollment",
+        "department"
+    ],
+    "name" : "people",
+    "types" : [
+        "int",
+        "str",
+        "str",
+        "str"
+    ],
+    "pagestack_ids" : [
+        "6ddded9902fa416488c9456f5b7a3c4b"
+    ]
+}
